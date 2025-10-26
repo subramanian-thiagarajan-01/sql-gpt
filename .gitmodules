@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/subramanian-thiagarajan-01/sql-gpt-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/subramanian-thiagarajan-01/sql-gpt-frontend.git
